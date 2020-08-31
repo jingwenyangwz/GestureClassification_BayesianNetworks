@@ -13,5 +13,7 @@ lifted. The data is in a matlab file data.mat. To load the data in python use sc
 The skeleton definition, i.e. the connections between these points, are specified at the beginning of the python notebook given.
 ![figure 1](1.png)
 
+The assignment is going to implement classification with two Bayesian models. They will be trained in order to classify the different body positions. The first model is Naive Bayes, that considers only dependencies from the class variable to the other random variables. In the second model, more elaborated dependencies between the positions of the different parts of the body will also be considered.
 
+Please read the task.pdf for more details.
 
